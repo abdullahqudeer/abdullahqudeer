@@ -5,7 +5,7 @@
     I'm Abdullah Qudeer
 </h1>
 
-<h3 align="center">I am a Full Stack Software Engineer specializing in creating scalable applications with a strong emphasis on writing clean, efficient, and maintainable code across both frontend and backend technologies</h3>
+<h3 align="center">I am a Full Stack Software Engineer specializing in creating scalable applications with a strong emphasis on writing clean, efficient, and maintainable code across both frontend and backend technologies.</h3>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
