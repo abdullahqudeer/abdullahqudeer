@@ -59,6 +59,8 @@
   <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="MS Teams"/>
 </div>
 <!----------------------------------- Profile Views ------------------------------------>
+<br />
+<br />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alih6051&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
